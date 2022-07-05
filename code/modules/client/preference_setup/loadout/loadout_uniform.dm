@@ -752,7 +752,3 @@ Swimsuits
 /datum/gear/uniform/utility_fur_pants
 	name = "Utility Fur Pants"
 	path = /obj/item/clothing/under/utility_fur_pants
-
-/datum/gear/uniform/sitri
-	name = "Sitri Striped Sweater"
-	path = /obj/item/clothing/under/sitri
